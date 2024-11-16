@@ -7,9 +7,13 @@ This project provides a recommendation system based on user interactions with po
 # Features
 
 Data Loading: Loads user interaction data (liked, viewed, rated posts) and post data.
+
 Text Preprocessing: Preprocesses the text data (removes special characters, stopwords, applies stemming and lemmatization).
+
 User Profile Creation: Builds a user profile based on the posts they have liked or viewed.
+
 Post Recommendation: Recommends posts based on the cosine similarity between the user's profile and all available posts.
+
 Evaluation Metrics: Calculates CTR and MAP to evaluate the quality of recommendations.
 
 Key Functions
