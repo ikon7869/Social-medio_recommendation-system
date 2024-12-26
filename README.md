@@ -24,6 +24,6 @@ CTR is calculated as the ratio of posts the user interacted with (liked or viewe
 2. Mean Average Precision (MAP)
 MAP is the mean of precision scores at each rank in the top N recommended posts, providing a measure of how well the top recommendations align with the user’s preferences.
 
-Click-Through Rate (CTR): 0.0500
+Click-Through Rate (CTR): 0.7
 
-Mean Average Precision (MAP): 0.0769
+Mean Average Precision (MAP): 0.669
